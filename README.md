@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maila Akhil</h1>
 
 <h3 align="center">
-CSE (Data Science) Student | Java & Python Developer | DSA Learner
+CSE (Data Science) Student | Java & Python Developer
 </h3>
 
 <p align="center">
-  <a href="https://github.com/MailaAkhil">GitHub</a> •
-  <a href="https://leetcode.com/u/M_Akhil123/">LeetCode</a>
+  <a href="https://github.com/MailaAkhil">GitHub</a>
 </p>
 
 ---
